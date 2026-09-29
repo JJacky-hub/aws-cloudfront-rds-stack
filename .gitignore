@@ -1,0 +1,11 @@
+# Системный мусор ОС и редакторов
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Защита от случайных секретов
+wp-config.php
+*.env
+*.log
+*.pem
